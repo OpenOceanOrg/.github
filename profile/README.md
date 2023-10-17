@@ -32,7 +32,7 @@ At OpenOceanOrg, we embrace a variety of programming languages. Here are some we
 
 ## Projects and Ideas 💡
 
-Have a great project idea but need collaborators or feedback? Check out our [Project Ideas Repository](LINK_TO_PROJECT_IDEAS_REPO). Whether you're looking to lead a project or find one to contribute to, this is the place to start.
+Have a great project idea but need collaborators or feedback? Check out our [Project Ideas Repository](https://github.com/OpenOceanOrg/Projects_ideas). Whether you're looking to lead a project or find one to contribute to, this is the place to start.
 
 ## How to Contribute: A Deep Dive 🚀
 
