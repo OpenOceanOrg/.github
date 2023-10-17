@@ -1,5 +1,5 @@
-<h1 align="center" color="white">OpenOceanOrg 🌊</h1>
-<h3 align="center" color="white">Dive into Innovation, Sail with Open Source</h3>
+<h1 align="center" style="color:white;">OpenOceanOrg 🌊</h1>
+<h3 align="center" style="color:white;" color="white">Dive into Innovation, Sail with Open Source</h3>
 
 ![](https://komarev.com/ghpvc/?username=OpenOceanOrg&label=PROFILE+VIEWS&style=flat)
 
