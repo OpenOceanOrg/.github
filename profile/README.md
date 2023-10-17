@@ -1,5 +1,7 @@
 <h1 align="center">OpenOceanOrg 🌊</h1>
 
+![](https://komarev.com/ghpvc/?username=OpenOceanOrg&label=PROFILE+VIEWS&style=flat)
+
 Welcome to **OpenOceanOrg** - where the vast sea of projects meets the open-source community. Dive in, explore, and contribute to the ever-expanding depths of technology with us.
 
 ## About Us 📘
