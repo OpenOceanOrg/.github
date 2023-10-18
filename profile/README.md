@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white;">OpenOceanOrg 🌊</h1>
-<h3 align="center" style="color:white;" color="white">Dive into Innovation, Sail with Open Source</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=499&color=33F7EE&center=true&vCenter=true&random=false&width=1000&lines=Dive+into+Innovation;Sail+with+Open+Source" alt="Typing SVG" /></a>
 
 ![](https://komarev.com/ghpvc/?username=OpenOceanOrg&label=PROFILE+VIEWS&style=flat)
 
